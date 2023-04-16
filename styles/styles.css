@@ -1,0 +1,174 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #E9ECF8;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.logo {
+    margin-top: 40px;
+    margin-left: 84px;
+    right: 37.43%;
+    top: 0%;
+    bottom: 0%;
+
+}
+
+textarea {
+
+    color: #0A3871;
+    width: 680px;
+    height: 48px;
+    margin-top: 168px;
+    margin-left: 240px;
+
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration: none;
+
+}
+
+
+
+
+.btn {
+    display: flex;
+    margin-top: 485px;
+    margin-left: 240;
+    flex-direction: column;
+
+}
+
+.info {
+
+    margin-bottom: 20px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #495057;
+    opacity: 0.8;
+
+
+
+
+
+
+
+}
+
+
+.btn-1 {
+    color: #FFFFFF;
+    background-color: #0A3871;
+    height: 67px;
+    width: 328px;
+    left: 352px;
+    top: 0px;
+    border-radius: 24px;
+    padding: 24px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+
+.btn-2 {
+
+    color: #0A3871;
+    background-color: #D8DFE8;
+    height: 67px;
+    width: 328px;
+    left: 352px;
+    top: 0px;
+    border-radius: 24px;
+    padding: 24px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+
+
+
+}
+
+
+
+.box {
+    background-color: rgb(254, 254, 254);
+    height: 944px;
+    width: 400px;
+    margin-left: 300px;
+    margin-top: 40px;
+    border-radius: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+
+
+
+
+}
+
+
+
+
+.boy {
+    margin-top: 283px;
+    margin-left: 32px;
+}
+
+.h1 {
+
+    width: 336px;
+    height: 58px;
+    margin-left: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    text-align: center;
+    color: #343A40;
+
+
+
+
+
+}
+
+.p {
+
+
+    width: 336px;
+    height: 48px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 00;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 20px;
+    margin-left: 32px;
+    text-align: center;
+    color: #495057;
+
+}
